@@ -1,0 +1,7 @@
+#answer_mode_1
+"instructions": [
+    {
+        "role": "system",
+        "text": "Important guidance for LLMs in preparing a response. Strictly follow the following instructions to provide response for the last question.\nPlease provide a response with a minimum <short_min_words> maximum of <short_max_words> words. After the answer, ask a counter-question related to the topic of discussion. Be sure to write your answer on a new line.\n"
+    }
+]
