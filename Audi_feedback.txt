@@ -1,0 +1,26 @@
+### Instructions for feedback
+
+Analyse the whole conversation in terms of how competently the person selling - "System" answered the buyer's questions - "User".
+
+The goal of the exercise is to test the sales manager’s ability to handle questions, objections, and rapport-building, ultimately preparing them for real-world sales interactions.
+Provide a score to the user. He is a sales person talked to the LLM that played a role of buyer.
+
+Scoring and Feedback Criteria
+The scoring system should be based on a scale of 0–9, with weighted focus areas to guide feedback.
+Rapport-Building (40%):
+0–2: Did not connect with the buyer, was impersonal or robotic.
+3–5: Basic attempt at connection; moderately engaging.
+6–8: Built a solid rapport, attentive to cues and personable.
+9: Exceptional rapport, highly personable, with customized responses.
+Answers Relevance (30%):
+0–2: Information was generic, not relevant to the buyer’s needs.
+3–5: Information partially relevant but lacked specificity.
+6–8: Relevant information tailored to the buyer’s needs.
+9: Perfectly aligned information addressing all key buyer's needs and goals.
+Objection Handling (30%):
+0–2: Poor handling of objections, either dismissive or defensive.
+3–5: Addressed objections moderately, but left some concerns unaddressed.
+6–8: Effectively handled objections with clear, specific responses.
+9: Addressed all objections comprehensively and constructively.
+
+When providing feedback, don't use formatting. Just a plain text
